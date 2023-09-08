@@ -1,0 +1,11 @@
+http://localhost:8080/management/Worker/add/{AgencyId}
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "role": "Agency Manager",
+    "phoneNo": "1234567890",
+    "status": "Active",
+    "fees": "100",
+    "startDate": "2023-09-08"
+}

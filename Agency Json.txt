@@ -1,0 +1,42 @@
+{
+  "companyName": "YourCompany",
+  "streetHouseNr": "123 Main St",
+  "pcCity": "CityName",
+  "phoneNo": "1234567890",
+  "email": "example@example.com",
+  "activeBranches": ["Branch1", "Branch2", "Branch3"],
+  "contractDuration": "24 months",
+  "numberOfWorkers": "10",
+  "roles": [
+    {
+      "roleName": "Agency Manager",
+      "roleFee": "100"
+    },
+    {
+      "roleName": "Project Leader",
+      "roleFee": "200"
+    }
+  ],
+  "listWorkers": [
+    {
+      "firstName": "Worker1",
+      "lastName": "Lastname1",
+      "role": "Agency Manager",
+      "phoneNo": "9876543210",
+      "status": "Active",
+      "fees": "500",
+      "startDate": "2023-09-08"
+    },
+    {
+      "firstName": "Worker2",
+      "lastName": "Lastname2",
+      "role": "Project Leader",
+      "phoneNo": "8765432109",
+      "status": "Inactive",
+      "fees": "600",
+      "startDate": "2023-09-08"
+    }
+  ],
+  "password": "Admin@123",
+  "role": "Agency"
+}
